@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# macOS Debug Symbols
+*.dSYM/
+
+# Compiled output binaries
+Task1
+Task2
+Task3
+
